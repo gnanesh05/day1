@@ -16,5 +16,5 @@ def sayhello(name="no name")
    puts "hey"+name
 end
 
-sayhello("kumar")
+sayhello("kumar rocky")
 sayhello
